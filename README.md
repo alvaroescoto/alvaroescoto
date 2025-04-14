@@ -1,4 +1,4 @@
-# Hi, I'm Alvaro 👋
+### Hi, I'm Alvaro 👋
 
 🎯 QA Automation Engineer  
 🛠️ Skilled with Cypress | Playwright | Postman | GitHub | JavaScript  

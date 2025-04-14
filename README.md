@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alvaro 👋
 
-<!--
-**alvaroescoto/alvaroescoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Automation Engineer  
+🛠️ Skilled with Cypress | Playwright | Postman | GitHub | JavaScript  
+🎥 Ex-Graphic Designer & Camera Operator  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I love building reliable, automated test systems
+- Passionate about both frontend and backend testing
+- Always learning and growing 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+

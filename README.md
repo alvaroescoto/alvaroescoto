@@ -32,26 +32,25 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 ---
 
-### 📁 Featured Projects
+### 🧪 What I Do
 
-- 🔹 [`DelekHomes-e2e-test`](https://github.com/alvaroescoto/DelekHomes-e2e-test) — Cypress-based test automation suite for a real estate app  
-- 🔹 [`Pet-projects`](https://github.com/alvaroescoto/Pet-projects) — Sandbox for QA testing, examples, and small experiments
+- 💻 Automated Testing: UI & API
+- 🧠 Test Strategy, Regression, end to end, functional, smoke, API/UI Validation, etc
+- 🔁 CI/CD and Git workflows
+- 🛠 Agile, Scrum, cross-functional collaboration
 
 ---
 
-### 🧠 What I Focus On
+### 📁 Featured Projects
 
-- Frontend & Backend test automation (API & UI)
-- Test frameworks with Cypress & Playwright
-- Manual + exploratory testing
-- Clean test architecture and scalable test suites
-- Agile/Scrum teams & CI/CD pipelines
+🔹 [`DelekHomes-e2e-test`](https://github.com/alvaroescoto/DelekHomes-e2e-test) – Cypress-based real estate app tests  
 
 ---
 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro_Escoto-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alvaroescoto)
-[![Email](https://img.shields.io/badge/Email-alvaro@email.com-informational?style=flat)](mailto:alvaro@email.com)
+[![Email](https://img.shields.io/badge/Email-alvaroedeavila@gmail.com-informational?style=flat)](mailto:alvaroedeavila@gmail.com)
+
 
 ---

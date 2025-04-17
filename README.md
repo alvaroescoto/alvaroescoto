@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alvaro Escoto</h1>
 <h3 align="center">QA Automation Engineer | Frontend & Backend Testing</h3>
 
-<p align="center">🎬 Former graphic designer and camera operator turned software tester.  
-I bring 4+ years of experience in manual and automated QA, working with frontend and backend systems.  
-I'm passionate about clean code, test automation, and building stable pipelines that ensure quality from day one.</p>
+<p align="center">
+I’m a QA Automation Engineer with 4+ years of experience in manual and automated testing for web applications.  
+My strengths lie in front-end and back-end test automation, API validation, and maintaining reliable test pipelines using tools like Cypress, Playwright, Postman, and SQL.  
+I enjoy collaborating closely with developers and product teams to catch bugs early and ensure every release is rock-solid.  
+<br><br>
+Previously, I worked as a graphic designer and camera operator for film — a creative background that helps me bring a detail-oriented, visual mindset to my testing work.
+</p>
+
 
 ---
 

@@ -49,11 +49,15 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🟩 My GitHub Contribution Graph
 
-![Commits](https://img.shields.io/badge/Commits-120%2B-success?style=for-the-badge&logo=git)
-![Verified Contributions](https://img.shields.io/badge/Verified%20Contributions-✔️%20Active-blueviolet?style=for-the-badge&logo=github)
-![Automation](https://img.shields.io/badge/Automation-E2E%20+%20API-green?style=for-the-badge&logo=cypress)
+
+<img src="assets/my-graph.png" width="100%" alt="Custom Contribution Graph">
+
+
+
+
+
 
 
 

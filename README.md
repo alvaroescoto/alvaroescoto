@@ -56,13 +56,6 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 
 
-
-
-
-
-
-
-
 ---
 
 ### 📫 Connect with Me

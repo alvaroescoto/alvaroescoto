@@ -52,7 +52,7 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 ### 🟩 My GitHub Contribution
 
 
-![Alvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaroescoto&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=github_dark)
+![Alvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaroescoto&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=github_dark)
 
 
 

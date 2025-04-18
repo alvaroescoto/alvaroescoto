@@ -50,11 +50,10 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 ### 📈 GitHub Stats & Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvaroescoto&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvaroescoto&theme=github-compact)
 
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroescoto&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroescoto&layout=compact&theme=github_dark)
+
 
 
 

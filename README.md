@@ -45,6 +45,14 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 🔹 [`DelekHomes-e2e-test`](https://github.com/alvaroescoto/DelekHomes-e2e-test) – Cypress-based real estate app tests  
 
+
+---
+
+### 📊 My GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alvaroescoto&theme=github-compact)
+
+
 ---
 
 ### 📫 Connect with Me

@@ -49,15 +49,10 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 ---
 
-### 🟩 My GitHub Contribution Graph
+### 🟩 My GitHub Contribution
 
 
-<img src="assets/my-graph.png" width="100%" alt="Custom Contribution Graph">
-
-
-
-
-
+![Commits](https://img.shields.io/badge/Verified%20Commits-120%2B-blueviolet?style=for-the-badge&logo=git&logoColor=white)
 
 
 

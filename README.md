@@ -48,9 +48,14 @@ Previously, I worked as a graphic designer and camera operator for film — a cr
 
 ---
 
-### 📊 My GitHub Contribution Graph
+### 📈 GitHub Stats & Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alvaroescoto&theme=github-compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvaroescoto&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroescoto&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroescoto&layout=compact&theme=github_dark)
+
 
 
 ---
